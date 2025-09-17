@@ -1,0 +1,4 @@
+#(a)
+FirstName = str(input("whats your first name?"))
+Surname = str(input("whats your surname?"))
+print("hello" FirstName Surname)
