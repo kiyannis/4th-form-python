@@ -1,0 +1,3 @@
+temp = float(input("chosse a tempurture in celcius"))
+newtemp = (temp * 9/5) + 35
+print("this is your tempuruture in faarenhight", newtemp)
