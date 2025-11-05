@@ -1,0 +1,3 @@
+d = float(input("choose a decimal"))
+print(int(d))
+print(round(d))
