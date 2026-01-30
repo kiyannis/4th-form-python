@@ -1,0 +1,7 @@
+def discount(a,b):
+    c = a * 1 - b
+    print(c)
+original_price = float(input("enter the original price"))
+discount_percent = int(input("enter the discount percent"))
+discount(original_price, discount_percent)
+
