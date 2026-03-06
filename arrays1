@@ -1,0 +1,16 @@
+scores = [1, 2, 3, 4, 5]
+print(scores[0])
+print(scores[2])
+scores[1] = 20
+scores[-1] = 17
+total = 0
+for score in scores:
+    print(score)
+    total = total + score
+    print(total)
+    
+
+    
+    
+
+
